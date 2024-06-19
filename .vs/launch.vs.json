@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Empty.exe (Empty\\Empty.exe)",
+      "name": "Empty.exe (Empty\\Empty.exe)"
+    }
+  ]
+}

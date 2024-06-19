@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+D:/Tools/HelloEngine/EngineLearning/CMakeLists.txt
+D:/Tools/HelloEngine/EngineLearning/build/CMakeFiles/3.28.0-msvc1/CMakeCCompiler.cmake
+D:/Tools/HelloEngine/EngineLearning/build/CMakeFiles/3.28.0-msvc1/CMakeCXXCompiler.cmake
+D:/Tools/HelloEngine/EngineLearning/build/CMakeFiles/3.28.0-msvc1/CMakeRCCompiler.cmake
+D:/Tools/HelloEngine/EngineLearning/build/CMakeFiles/3.28.0-msvc1/CMakeSystem.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+D:/Tools/VS2022C/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
