@@ -1,2 +1,9 @@
+# 忽略生成的目录
 .vs/
 .vscode/
+build/
+
+# 忽略编译生成的文件
+.obj
+.exe
+.pdb
